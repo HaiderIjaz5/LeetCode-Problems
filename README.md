@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [2886-faulty-keyboard](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
+## Simulation
+|  |
+| ------- |
+| [2886-faulty-keyboard](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
 <!---LeetCode Topics End-->
