@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0344-reverse-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [2886-faulty-keyboard](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
 ## Simulation
 |  |
