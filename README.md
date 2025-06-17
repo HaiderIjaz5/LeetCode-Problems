@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [2383-add-two-integers](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2752-sum-multiples) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
