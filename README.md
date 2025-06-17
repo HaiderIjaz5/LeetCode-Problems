@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [2383-add-two-integers](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2383-add-two-integers) |
+| [2752-sum-multiples](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2752-sum-multiples) |
 ## Hash Table
 |  |
 | ------- |
