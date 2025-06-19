@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
