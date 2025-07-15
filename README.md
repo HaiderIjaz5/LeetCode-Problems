@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2886-faulty-keyboard](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
+| [3396-valid-word](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3396-valid-word) |
 ## Simulation
 |  |
 | ------- |
