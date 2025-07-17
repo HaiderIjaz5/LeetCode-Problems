@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 <!---LeetCode Topics End-->
