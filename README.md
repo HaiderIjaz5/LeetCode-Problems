@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2886-faulty-keyboard](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3396-valid-word) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Combinatorics
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
