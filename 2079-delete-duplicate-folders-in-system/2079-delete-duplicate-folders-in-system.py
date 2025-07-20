@@ -10,7 +10,7 @@ class Solution:
     def deleteDuplicateFolder(self, paths: List[List[str]]) -> List[List[str]]:
         root = TrieNode()
 
-        # Step 1: Build the Trie from paths
+      
         for path in paths:
             node = root
             for folder in path:
@@ -18,7 +18,7 @@ class Solution:
                     node.children[folder] = TrieNode()
                 node = node.children[folder]
 
-        # Step 2: Serialize each subtree to find duplicates
+        
         subtree_map = defaultdict(list)
 
         def serialize(node: TrieNode) -> str:
@@ -34,13 +34,13 @@ class Solution:
 
         serialize(root)
 
-        # Step 3: Mark all duplicate subtrees
+     
         for nodes in subtree_map.values():
             if len(nodes) > 1:
                 for node in nodes:
                     node.is_deleted = True
 
-        # Step 4: Collect all remaining paths (not deleted)
+       
         res = []
 
         def dfs(node: TrieNode, path: List[str]):
