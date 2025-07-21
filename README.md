@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
