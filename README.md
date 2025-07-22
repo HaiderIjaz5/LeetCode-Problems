@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1813-maximum-erasure-value](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1813-maximum-erasure-value](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 ## String
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
