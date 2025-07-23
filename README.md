@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2886-faulty-keyboard](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search
 |  |
