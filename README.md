@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2383-add-two-integers](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2752-sum-multiples) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
