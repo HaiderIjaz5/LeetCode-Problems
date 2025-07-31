@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0067-add-binary) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2886-faulty-keyboard](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
 ## Divide and Conquer
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0136-single-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
