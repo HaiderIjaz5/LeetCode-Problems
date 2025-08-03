@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Tree
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Brainteaser
 |  |
