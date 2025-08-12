@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
