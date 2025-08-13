@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
