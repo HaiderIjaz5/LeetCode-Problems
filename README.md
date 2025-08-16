@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [1813-maximum-erasure-value](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2689-rearranging-fruits](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2689-rearranging-fruits) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
