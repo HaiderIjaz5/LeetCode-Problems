@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2752-sum-multiples) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
