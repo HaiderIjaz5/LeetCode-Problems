@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0826-soup-servings](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
