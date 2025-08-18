@@ -278,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0679-24-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
