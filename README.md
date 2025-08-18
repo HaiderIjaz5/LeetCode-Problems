@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0679-24-game](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
+| [0679-24-game](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1013-fibonacci-number) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0867-new-21-game) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
