@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
