@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2529-range-product-queries-of-powers) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2752-sum-multiples](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/2752-sum-multiples) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/HaiderIjaz5/LeetCode-Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Hash Table
